@@ -70,4 +70,4 @@ Back-End Developer | ASP.NET Core | C# | SQL Server
 
 ## 📫 Contact
 
-- LinkedIn: [Mahmoud Reda](linkedin.com/in/mahmoudredaprofile)
+- LinkedIn: [Mahmoud Reda](https://www.linkedin.com/in/mahmoudredaprofile/)

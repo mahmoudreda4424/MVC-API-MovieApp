@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC57E6-2BDC-4A93-8B03-4EEB194F8A5E}|..\\WebApp\\WebApp.csproj|c:\\users\\mmm\\onedrive - mansoura university - main\\desktop\\internship iti\\mvc\\webapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC57E6-2BDC-4A93-8B03-4EEB194F8A5E}|..\\WebApp\\WebApp.csproj|c:\\users\\mmm\\onedrive - mansoura university - main\\desktop\\internship iti\\mvc\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC57E6-2BDC-4A93-8B03-4EEB194F8A5E}|..\\WebApp\\WebApp.csproj|c:\\users\\mmm\\onedrive - mansoura university - main\\desktop\\internship iti\\mvc\\webapp\\services\\movieapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC57E6-2BDC-4A93-8B03-4EEB194F8A5E}|..\\WebApp\\WebApp.csproj|c:\\users\\mmm\\onedrive - mansoura university - main\\desktop\\internship iti\\mvc\\webapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449B0A42-3D59-4F12-A74D-5180F571B7DC}|Test.csproj|c:\\users\\mmm\\onedrive - mansoura university - main\\desktop\\internship iti\\mvc\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449B0A42-3D59-4F12-A74D-5180F571B7DC}|Test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449B0A42-3D59-4F12-A74D-5180F571B7DC}|Test.csproj|c:\\users\\mmm\\onedrive - mansoura university - main\\desktop\\internship iti\\mvc\\test\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449B0A42-3D59-4F12-A74D-5180F571B7DC}|Test.csproj|solutionrelative:data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449B0A42-3D59-4F12-A74D-5180F571B7DC}|Test.csproj|c:\\users\\mmm\\onedrive - mansoura university - main\\desktop\\internship iti\\mvc\\test\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449B0A42-3D59-4F12-A74D-5180F571B7DC}|Test.csproj|solutionrelative:model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC57E6-2BDC-4A93-8B03-4EEB194F8A5E}|..\\WebApp\\WebApp.csproj|c:\\users\\mmm\\onedrive - mansoura university - main\\desktop\\internship iti\\mvc\\webapp\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC57E6-2BDC-4A93-8B03-4EEB194F8A5E}|..\\WebApp\\WebApp.csproj|c:\\users\\mmm\\onedrive - mansoura university - main\\desktop\\internship iti\\mvc\\webapp\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEC57E6-2BDC-4A93-8B03-4EEB194F8A5E}|..\\WebApp\\WebApp.csproj|c:\\users\\mmm\\onedrive - mansoura university - main\\desktop\\internship iti\\mvc\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApp\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "..\\WebApp\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T13:04:07.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAMBSwBwAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T12:31:01.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "..\\WebApp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Models\\Movie.cs",
+              "RelativeToolTip": "..\\WebApp\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:20:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "..\\WebApp\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "..\\WebApp\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:18:56.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieApiService.cs",
+              "DocumentMoniker": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Services\\MovieApiService.cs",
+              "RelativeDocumentMoniker": "..\\WebApp\\Services\\MovieApiService.cs",
+              "ToolTip": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Services\\MovieApiService.cs",
+              "RelativeToolTip": "..\\WebApp\\Services\\MovieApiService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:11:22.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Program.cs",
+              "RelativeToolTip": "..\\WebApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:59:25.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\Test\\Model\\Movie.cs",
+              "RelativeDocumentMoniker": "Model\\Movie.cs",
+              "ToolTip": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\Test\\Model\\Movie.cs",
+              "RelativeToolTip": "Model\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:29:20.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\Test\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository.cs",
+              "ToolTip": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\Test\\Data\\IRepository.cs",
+              "RelativeToolTip": "Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:58:38.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\Test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:40:06.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApp\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mmm\\OneDrive - Mansoura University - Main\\Desktop\\internship ITI\\MVC\\WebApp\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "..\\WebApp\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T13:09:03.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

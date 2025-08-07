@@ -65,3 +65,9 @@ This project consists of two main applications that work together:
 
 Mahmoud Reda  
 Back-End Developer | ASP.NET Core | C# | SQL Server
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [Mahmoud Reda](linkedin.com/in/mahmoudredaprofile)
